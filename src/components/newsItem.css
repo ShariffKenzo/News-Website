@@ -1,0 +1,18 @@
+.news-app {
+    display: flex;
+    justify-content: center;
+}
+
+.news-item {
+    background-color: rgb(255, 246, 198);
+    font-style: oblique;
+    width: 40%;
+    padding: 8px;
+    border: thick double #5432ce;
+    margin-bottom: 20px;
+}
+
+.news-img {
+    width: 40%;
+    
+}
